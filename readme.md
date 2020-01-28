@@ -15,4 +15,4 @@ config = {
 dataset = SyntheticShapes(**config)
 data = dataset.get_test_set()
 ```
-Also test_classical_detectors.ipynb can be used to refer.
+Also ```test_classical_detectors.ipynb``` can be used to refer.
